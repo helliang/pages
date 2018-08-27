@@ -1,0 +1,377 @@
+{
+    "totalRecord": "92",
+    "status": "200",
+    "currentPage": "1",
+    "pageCount": "1",
+    "totalRow": "92",
+    "record": [
+        {
+            "CD_CHINA": "A监区",
+            "CD_CODE": "01"
+        },
+        {
+            "CD_CHINA": "A区01",
+            "CD_CODE": "0101"
+        },
+        {
+            "CD_CHINA": "A区02",
+            "CD_CODE": "0102"
+        },
+        {
+            "CD_CHINA": "A区03",
+            "CD_CODE": "0103"
+        },
+        {
+            "CD_CHINA": "A区04",
+            "CD_CODE": "0104"
+        },
+        {
+            "CD_CHINA": "A区05",
+            "CD_CODE": "0105"
+        },
+        {
+            "CD_CHINA": "106戒毒室（6室）",
+            "CD_CODE": "0106"
+        },
+        {
+            "CD_CHINA": "A区07",
+            "CD_CODE": "0107"
+        },
+        {
+            "CD_CHINA": "A区08",
+            "CD_CODE": "0108"
+        },
+        {
+            "CD_CHINA": "A区09",
+            "CD_CODE": "0109"
+        },
+        {
+            "CD_CHINA": "A区10",
+            "CD_CODE": "0110"
+        },
+        {
+            "CD_CHINA": "A区11",
+            "CD_CODE": "0111"
+        },
+        {
+            "CD_CHINA": "A区12",
+            "CD_CODE": "0112"
+        },
+        {
+            "CD_CHINA": "A区13",
+            "CD_CODE": "0113"
+        },
+        {
+            "CD_CHINA": "A区14",
+            "CD_CODE": "0114"
+        },
+        {
+            "CD_CHINA": "A区15",
+            "CD_CODE": "0115"
+        },
+        {
+            "CD_CHINA": "A区16",
+            "CD_CODE": "0116"
+        },
+        {
+            "CD_CHINA": "A区17",
+            "CD_CODE": "0117"
+        },
+        {
+            "CD_CHINA": "A区18",
+            "CD_CODE": "0118"
+        },
+        {
+            "CD_CHINA": "A区19",
+            "CD_CODE": "0119"
+        },
+        {
+            "CD_CHINA": "A区20",
+            "CD_CODE": "0120"
+        },
+        {
+            "CD_CHINA": "A区21",
+            "CD_CODE": "0121"
+        },
+        {
+            "CD_CHINA": "A区22",
+            "CD_CODE": "0122"
+        },
+        {
+            "CD_CHINA": "C监区",
+            "CD_CODE": "03"
+        },
+        {
+            "CD_CHINA": "C区01",
+            "CD_CODE": "0301"
+        },
+        {
+            "CD_CHINA": "C区02",
+            "CD_CODE": "0302"
+        },
+        {
+            "CD_CHINA": "C区03",
+            "CD_CODE": "0303"
+        },
+        {
+            "CD_CHINA": "C区04",
+            "CD_CODE": "0304"
+        },
+        {
+            "CD_CHINA": "C区05",
+            "CD_CODE": "0305"
+        },
+        {
+            "CD_CHINA": "C区06",
+            "CD_CODE": "0306"
+        },
+        {
+            "CD_CHINA": "C区07",
+            "CD_CODE": "0307"
+        },
+        {
+            "CD_CHINA": "C区08",
+            "CD_CODE": "0308"
+        },
+        {
+            "CD_CHINA": "C区09",
+            "CD_CODE": "0309"
+        },
+        {
+            "CD_CHINA": "C区10",
+            "CD_CODE": "0310"
+        },
+        {
+            "CD_CHINA": "C区11",
+            "CD_CODE": "0311"
+        },
+        {
+            "CD_CHINA": "C区12",
+            "CD_CODE": "0312"
+        },
+        {
+            "CD_CHINA": "C区13",
+            "CD_CODE": "0313"
+        },
+        {
+            "CD_CHINA": "C区14",
+            "CD_CODE": "0314"
+        },
+        {
+            "CD_CHINA": "C区15",
+            "CD_CODE": "0315"
+        },
+        {
+            "CD_CHINA": "C区16",
+            "CD_CODE": "0316"
+        },
+        {
+            "CD_CHINA": "C区17",
+            "CD_CODE": "0317"
+        },
+        {
+            "CD_CHINA": "C区18",
+            "CD_CODE": "0318"
+        },
+        {
+            "CD_CHINA": "C区19",
+            "CD_CODE": "0319"
+        },
+        {
+            "CD_CHINA": "C区20",
+            "CD_CODE": "0320"
+        },
+        {
+            "CD_CHINA": "C区21",
+            "CD_CODE": "0321"
+        },
+        {
+            "CD_CHINA": "C区22",
+            "CD_CODE": "0322"
+        },
+        {
+            "CD_CHINA": "D监区",
+            "CD_CODE": "04"
+        },
+        {
+            "CD_CHINA": "D区01",
+            "CD_CODE": "0401"
+        },
+        {
+            "CD_CHINA": "D区02",
+            "CD_CODE": "0402"
+        },
+        {
+            "CD_CHINA": "D区03",
+            "CD_CODE": "0403"
+        },
+        {
+            "CD_CHINA": "D区04",
+            "CD_CODE": "0404"
+        },
+        {
+            "CD_CHINA": "D区05",
+            "CD_CODE": "0405"
+        },
+        {
+            "CD_CHINA": "D区06",
+            "CD_CODE": "0406"
+        },
+        {
+            "CD_CHINA": "D区07",
+            "CD_CODE": "0407"
+        },
+        {
+            "CD_CHINA": "D区08",
+            "CD_CODE": "0408"
+        },
+        {
+            "CD_CHINA": "D区09",
+            "CD_CODE": "0409"
+        },
+        {
+            "CD_CHINA": "D区10",
+            "CD_CODE": "0410"
+        },
+        {
+            "CD_CHINA": "D区11",
+            "CD_CODE": "0411"
+        },
+        {
+            "CD_CHINA": "D区12",
+            "CD_CODE": "0412"
+        },
+        {
+            "CD_CHINA": "D区13",
+            "CD_CODE": "0413"
+        },
+        {
+            "CD_CHINA": "D区14",
+            "CD_CODE": "0414"
+        },
+        {
+            "CD_CHINA": "D区15",
+            "CD_CODE": "0415"
+        },
+        {
+            "CD_CHINA": "D区16",
+            "CD_CODE": "0416"
+        },
+        {
+            "CD_CHINA": "D区17",
+            "CD_CODE": "0417"
+        },
+        {
+            "CD_CHINA": "D区18",
+            "CD_CODE": "0418"
+        },
+        {
+            "CD_CHINA": "D区19",
+            "CD_CODE": "0419"
+        },
+        {
+            "CD_CHINA": "D区20",
+            "CD_CODE": "0420"
+        },
+        {
+            "CD_CHINA": "D区21",
+            "CD_CODE": "0421"
+        },
+        {
+            "CD_CHINA": "D区22",
+            "CD_CODE": "0422"
+        },
+        {
+            "CD_CHINA": "E监区",
+            "CD_CODE": "05"
+        },
+        {
+            "CD_CHINA": "E区01",
+            "CD_CODE": "0501"
+        },
+        {
+            "CD_CHINA": "E区02",
+            "CD_CODE": "0502"
+        },
+        {
+            "CD_CHINA": "E区03",
+            "CD_CODE": "0503"
+        },
+        {
+            "CD_CHINA": "E区04",
+            "CD_CODE": "0504"
+        },
+        {
+            "CD_CHINA": "E区05",
+            "CD_CODE": "0505"
+        },
+        {
+            "CD_CHINA": "E区06",
+            "CD_CODE": "0506"
+        },
+        {
+            "CD_CHINA": "E区07",
+            "CD_CODE": "0507"
+        },
+        {
+            "CD_CHINA": "E区08",
+            "CD_CODE": "0508"
+        },
+        {
+            "CD_CHINA": "E区09",
+            "CD_CODE": "0509"
+        },
+        {
+            "CD_CHINA": "E区10",
+            "CD_CODE": "0510"
+        },
+        {
+            "CD_CHINA": "E区11",
+            "CD_CODE": "0511"
+        },
+        {
+            "CD_CHINA": "E区12",
+            "CD_CODE": "0512"
+        },
+        {
+            "CD_CHINA": "E区13",
+            "CD_CODE": "0513"
+        },
+        {
+            "CD_CHINA": "E区14",
+            "CD_CODE": "0514"
+        },
+        {
+            "CD_CHINA": "E区15",
+            "CD_CODE": "0515"
+        },
+        {
+            "CD_CHINA": "E区16",
+            "CD_CODE": "0516"
+        },
+        {
+            "CD_CHINA": "E区17",
+            "CD_CODE": "0517"
+        },
+        {
+            "CD_CHINA": "E区18",
+            "CD_CODE": "0518"
+        },
+        {
+            "CD_CHINA": "E区19",
+            "CD_CODE": "0519"
+        },
+        {
+            "CD_CHINA": "E区20",
+            "CD_CODE": "0520"
+        },
+        {
+            "CD_CHINA": "E区21",
+            "CD_CODE": "0521"
+        },
+        {
+            "CD_CHINA": "E区22",
+            "CD_CODE": "0522"
+        }
+    ]
+}

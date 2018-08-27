@@ -1,0 +1,100 @@
+/* http://192.168.1.16:8000/jdbg/fjtzCon/getYdjw */
+{
+    "totalRecord": "335206",
+    "status": "200",
+    "currentPage": "1",
+    "pageCount": "167603",
+    "totalRow": "335206",
+    "record" : [
+        {
+            "NAME" : "周坤利",
+            "ROOM_NO" : "001"
+        },
+        {
+            "NAME" : "静安寺",
+            "ROOM_NO" : "001"
+        },
+        {
+            "NAME" : "阿斯顿",
+            "ROOM_NO" : "002"
+        },
+        {
+            "NAME" : "艾利欧",
+            "ROOM_NO" : "003"
+        },
+        {
+            "NAME" : "泼尼",
+            "ROOM_NO" : "003"
+        },
+        {
+            "NAME" : "爱仕达",
+            "ROOM_NO" : "003"
+        },
+        {
+            "NAME" : "佳斯柯",
+            "ROOM_NO" : "004"
+        },
+        {
+            "NAME" : "票价啊",
+            "ROOM_NO" : "004"
+        },
+        {
+            "NAME" : "已发货",
+            "ROOM_NO" : "005"
+        },
+        {
+            "NAME" : "没背景",
+            "ROOM_NO" : "006"
+        },
+        {
+            "NAME" : "熬枯受",
+            "ROOM_NO" : "006"
+        },
+    ]
+    /*"record": [
+        {
+            "P_KEY": "440100113201411193033",
+            "CASECLASS": "危险驾驶案",
+            "SYS_UNIT": "广州市第一看守所",
+            "SENDER": "",
+            "SEX": "男",
+            "M_CASEDEPT": "",
+            "OUTDATE": "2015-06-30 20:42:33",
+            "T_STATUS": "出所人员",
+            "NAME": "周坤利",
+            "INDATE": "2014-11-19 22:42:14",
+            "ENDDATE": "2015-06-30",
+            "NATION": "汉",
+            "M_DEPTTYPE": "法院",
+            "ADDRESSALL": "广东省揭阳市惠来县",
+            "ADDRESS": "广东省惠来县周田镇青州管区新村十直巷8之1号",
+            "NATIVE_PLACE": "广东省揭阳市惠来县",
+            "ID": "440528196802150610",
+            "RESIDADDR": "广东省揭阳市惠来县",
+            "BIRTHDAY": "1968-02-15",
+            "ROOM_NUM" : "001"
+        },
+        {
+            "P_KEY": "440100113201411288817",
+            "CASECLASS": "盗窃案",
+            "SYS_UNIT": "广州市第三看守所",
+            "SENDER": "",
+            "SEX": "女",
+            "M_CASEDEPT": "",
+            "OUTDATE": "2015-05-12 09:48:13",
+            "T_STATUS": "出所人员",
+            "NAME": "周坤利",
+            "INDATE": "2014-11-28 01:53:59",
+            "ENDDATE": "2015-06-26",
+            "NATION": "汉",
+            "M_DEPTTYPE": "检察院",
+            "ADDRESSALL": "江西省上饶市波阳县",
+            "ADDRESS": "江西省鄱阳县鄱阳镇航运宿舍12栋",
+            "NATIVE_PLACE": "江西省上饶市波阳县",
+            "ID": "999",
+            "RESIDADDR": "江西省上饶市波阳县",
+            "BIRTHDAY": "2017-12-28",
+            "ROOM_NUM" : "001"
+        }
+    ]*/
+}

@@ -1,0 +1,26 @@
+/* http://192.168.1.16:8000/jdbg/fjtzCon/getYdjw??cupage=-1&rowperpage=-1&tableZd=CD_CODE,CD_CHINA&table=c_room&type=2&where=SYS_UNIT,CD_CODE&whereFh=%3D,%3D&whereVals=440100113,0&SYS_UNIT=440100113&CD_CODE=0 */
+{
+    "totalRecord": "4",
+    "status": "200",
+    "currentPage": "1",
+    "pageCount": "1",
+    "totalRow": "4",
+    "record": [
+        {
+            "CD_CHINA": "A监区",
+            "CD_CODE": "01"
+        },
+        {
+            "CD_CHINA": "C监区",
+            "CD_CODE": "03"
+        },
+        {
+            "CD_CHINA": "D监区",
+            "CD_CODE": "04"
+        },
+        {
+            "CD_CHINA": "E监区",
+            "CD_CODE": "05"
+        }
+    ]
+}

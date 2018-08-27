@@ -1,0 +1,27 @@
+{
+    json : [
+        {TABLE:"skss.dqza",COUNT:"13886",NAME:"当前在押"},
+
+        {TABLE:"skss,nan",COUNT:"12685",NAME:"当前在押-男"},
+        {TABLE:"skss.nv",COUNT:"1201",NAME:"当前在押-女"},
+        {TABLE:"skss.drrs",COUNT:"0",NAME:"当日入所"},
+        {TABLE:"skss.drcs",COUNT:"0",NAME:"当日出所"},
+        {TABLE:"skss.zfxs",COUNT:"2332",NAME:"重风险数"},
+        {TABLE:"skss.zbhs",COUNT:"71",NAME:"重病号数"},
+
+        {TABLE:"skss.drtxcs",COUNT:"0",NAME:"提讯次数"},
+        {TABLE:"skss.drzztx",COUNT:"0",NAME:"正在提讯"},
+        {TABLE:"skss.drlshj",COUNT:"0",NAME:"律师会见"},
+        {TABLE:"skss.drlszzhj",COUNT:"0",NAME:"律师正在会见"},
+        {TABLE:"skss.drjshj",COUNT:"0",NAME:"家属会见"},
+        {TABLE:"skss.drjszzhj",COUNT:"0",NAME:"家属正在会见"},
+        {TABLE:"skss.drcsjy",COUNT:"0",NAME:"出所就医"},
+
+        {TABLE:"skss.zpwcj",COUNT:"13866",NAME:"照片未采集"},
+        {TABLE:"skss.zwwcj",COUNT:"13886",NAME:"指纹未采集"},
+        {TABLE:"skss.rswpg",COUNT:"865",NAME:"入所未评估"},
+        {TABLE:"skss.bywpg",COUNT:"13886",NAME:"本月未评估"},
+        {TABLE:"skss.rswth",COUNT:"2",NAME:"入所未谈话"},
+        {TABLE:"skss.bywth",COUNT:"13886",NAME:"本月未谈话"},
+    ]
+}
